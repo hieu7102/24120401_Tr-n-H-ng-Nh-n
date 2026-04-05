@@ -161,6 +161,6 @@ Lab_API/
 
 ## Demo Video
 
-![Watch Demo](https://drive.google.com/file/d/1eYyVq_OC6UGxBw3B6mJOFUl-ef1rZLr3/view?usp=drive_link)
+[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/video.png)](https://drive.google.com/uc?export=download&id=1eYyVq_OC6UGxBw3B6mJOFUl-ef1rZLr3)
 
 
